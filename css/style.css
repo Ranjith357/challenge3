@@ -70,29 +70,33 @@ i {
   color: yellow;
 }
 
-@media(max-width:850px){
-  body{
+@media(max-width:850px) {
+  body {
     background-image: url("../images/bg-mobile.svg");
   }
-  #display{
+
+  #display {
     display: block;
-    width:100%;
+    width: 100%;
     text-align: center;
   }
-  .logo{
-    margin:0 0 20px 0;
 
+  .mockup{
+    width: 60%;
   }
-  .mockup {
-    width:100%;
+
+  .logo {
+    margin: 0 0 20px 0;
+    width:50%;
   }
-  .icon{
+
+  .icon {
     text-align: center;
-    margin:20px;
-  }
-  .box-2{
-    margin:20px 20px 30px;
-    width:100%;
+    margin: 20px;
   }
 
+  .box-2 {
+    margin: 20px 20px 30px;
+    width: 100%;
+  }
 }
