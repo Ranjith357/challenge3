@@ -81,9 +81,10 @@ i {
   }
   .logo{
     margin:0 0 20px 0;
+
   }
   .mockup {
-    width: 400px;
+    width:100%;
   }
   .icon{
     text-align: center;
