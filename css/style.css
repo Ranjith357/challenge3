@@ -21,11 +21,14 @@ i {
 
 .mockup {
   margin: 40px auto 0;
+  width:500px;
 }
 
 .logo {
   margin: 30px 0 0;
   width: 187.5px;
+  height:"50px"; 
+  width:"50px";
 }
 
 .icon {
